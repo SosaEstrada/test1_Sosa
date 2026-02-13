@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alejandro´s Page</title>
+    <title>Acerca de</title>
 </head>
 <body>
     <h1>
-        Bienvenido a la pagina de alejandro
+        hola mundo, esta es la pagina acerca de 
     </h1>
-    <a href="acerca_de.php">ir acerca de</a>
+    <a href="index.php">Volver a la pagina principal</a>
 </body>
 </html>
